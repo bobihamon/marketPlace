@@ -1,5 +1,12 @@
 {
     "users": [
+        {
+            "id": 1,
+            "name": "Yehor",
+            "surname": "Slivinskiy",
+            "photo_url": "https://bomber.com.ua/images/stories/virtuemart/product/fon-bumazhnyj-bd-135kh110m-chernyj-4450-0.jpg",
+            "balance": 1000000
+        }
         
     ]
 }
